@@ -7,3 +7,5 @@
 * Канвас: `Canvas.ipynb`
 
 Разработанный дашборд: https://public.tableau.com/views/Task3_16689547351160/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+<img width="1420" alt="image" src="https://user-images.githubusercontent.com/105938839/214062417-bb6cf4f6-fa79-4b54-84b0-339153abe0b8.png">
